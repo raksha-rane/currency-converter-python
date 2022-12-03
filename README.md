@@ -1,5 +1,4 @@
-# currency-converter-python
-
+# Currency Converter (Mini Project)
 In this python program, you can convert a currency to another. You have to enter the amount to be converted and also the initial and final currencies. Then, if your inputs are valid then the program will display the converted amount. 
 
 If the inputs are invalid, then it will display message to correct user.   
